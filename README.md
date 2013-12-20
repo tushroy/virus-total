@@ -89,3 +89,5 @@ Executing the above would result in the following output (when scanning eicar)
 Dependencies
 -----
 [jsoup](http://jsoup.org/)
+
+forked from: code.google.com/p/virus-total
